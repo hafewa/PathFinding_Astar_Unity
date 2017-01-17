@@ -1,4 +1,4 @@
-# Unity_PathFinding_Astar
+# PathFinding_Astar
 
 unity 5.6.0
 
